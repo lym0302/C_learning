@@ -5,7 +5,7 @@ This is a simple example to show the use of two parameters  which are argc and a
 
 
 Here is the process of compileding and runing .cc file on Linux.
-First,compiled the program and generate a default executable file named a.out:
+ First,compiled the program and generate a default executable file named a.out:
 
 ```bash
 gcc argc_argv.c
