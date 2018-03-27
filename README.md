@@ -16,3 +16,14 @@ Then you run the executable file:
 ```bash 
 ./a.out
 ```
+
+When compiled the program whose name is hello.cpp,you should execute:
+
+```bash
+g++ hello.cpp
+```
+If you want to generate some specified files, you can see [g++ more](https://blog.csdn.net/dengshuai_super/article/details/51766786).For example,generating a specified executable file whose name is hello:
+
+```bash
+g++ hello.cpp -o hello
+```
